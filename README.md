@@ -9,4 +9,7 @@ Here are some ideas to get you started:
 - 
 
 -->
-### Machine Learning Wizard ![image](https://user-images.githubusercontent.com/75207168/124494051-00228680-ddd4-11eb-8b42-8ea0cbdd23f3.png) 
+### Machine Learning Wizard 
+### Currently Pursuing B.Tech (CSE)
+### Kaggle 2x Expert
+
